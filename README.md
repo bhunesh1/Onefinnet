@@ -1,16 +1,29 @@
-# Onefinnet
-one finnet assingment
-Live Project: https://kaleidoscopic-dieffenbachia-7e3d5c.netlify.app
+## Live Demo
+
+Try the App live here:
+- **Frontend**: [OneFinnet](https://onefinnet-six.vercel.app/)
 
 
-# Installation for running locally
-Steps
+## Installation for running locally
 
-#Clone the Repository
+### Steps
 
-#Install Frontend Dependencies
-#npm install
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/harshal-1/one_finnet
 
-#Start the frontend server
-#npm start
-#Open your browser and go to http://localhost:3000.
+2. **Install Frontend Dependencies**
+   ```bash
+   npm install
+
+3. **Start the frontend server**
+   ```bash
+   npm start
+
+4. **Open your browser and go to http://localhost:3000.**
+
+
+
+
+
+
